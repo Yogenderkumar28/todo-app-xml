@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF0000" /> <!-- Change the color to your desired background color when focused -->
+            <corners android:radius="8dp" /> <!-- Change the radius to your desired corner radius -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#CCCCCC" /> <!-- Change the color to your desired background color -->
+            <corners android:radius="8dp" /> <!-- Change the radius to your desired corner radius -->
+        </shape>
+    </item>
+</selector>

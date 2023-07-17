@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo_app">Todo App</string>
+    <string name="add_desc">add</string>
+    <string name="title_hint">Title</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="description_hint">Description</string>
+</resources>
